@@ -9,21 +9,21 @@ Un programma Python con interfaccia grafica che genera [immagini ascii e testo d
 https://github.com/Denkishi/asciigen/releases/download/MacOs/main
 
 2. Permessi per dannati mac
-APRIRE IL TERMINALE E SCRIVERE
-sudo chmod +x 
-trascinare il file "main" scaricato nella prima parte all'interno del terminale 
-premere INVIO
-Inserire la password se richiesto
+- APRIRE IL TERMINALE E SCRIVERE
+- sudo chmod +x 
+- trascinare il file "main" scaricato nella prima parte all'interno del terminale 
+- premere INVIO
+- Inserire la password se richiesto
 
 3. Quarantena app
-APRIRE IL TERMINALE E SCRIVERE
-sudo xattr -rd com.apple.quarantine 
-trascinare il file "main" scaricato nella prima parte all'interno del terminale 
-premere INVIO
-Inserire la password se richiesto
+- APRIRE IL TERMINALE E SCRIVERE
+- sudo xattr -rd com.apple.quarantine 
+- trascinare il file "main" scaricato nella prima parte all'interno del terminale 
+- premere INVIO
+- Inserire la password se richiesto
 
 4. Avvia il programma
-doppio click su main
+- doppio click su main
 
 
 
