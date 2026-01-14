@@ -10,14 +10,14 @@ https://github.com/Denkishi/asciigen/releases/download/MacOs/main
 
 2. Permessi per dannati mac
 - APRIRE IL TERMINALE E SCRIVERE
-- sudo chmod +x 
+- sudo chmod +x (IMPORTANTE LO SPAZIO DOPO LA x)
 - trascinare il file "main" scaricato nella prima parte all'interno del terminale 
 - premere INVIO
 - Inserire la password se richiesto
 
 3. Quarantena app
 - APRIRE IL TERMINALE E SCRIVERE
-- sudo xattr -rd com.apple.quarantine 
+- sudo xattr -rd com.apple.quarantine (IMPORTANTE LO SPAZIO DOPO quarantine)
 - trascinare il file "main" scaricato nella prima parte all'interno del terminale 
 - premere INVIO
 - Inserire la password se richiesto
